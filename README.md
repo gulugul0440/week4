@@ -1,2 +1,2 @@
 # week4
-![Chart](msPHq-counta-of-how-often-do-you-travel-by-plane-.png)
+<img src="msPHq-counta-of-how-often-do-you-travel-by-plane-.png" alt="Chart" width="400"/>
